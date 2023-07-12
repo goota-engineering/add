@@ -1,0 +1,8 @@
+.DS_Store
+
+bdd-training/target
+bdd-training/target/
+bdd-training/target/*
+bdd-training/target/**
+
+bdd-training/.DS_Store
